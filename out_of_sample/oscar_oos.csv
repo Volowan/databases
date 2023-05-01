@@ -1,4 +1,4 @@
-Entry,SMILES,Type,is_drug
+Entry,smiles,Type,is_drug
 1,N[C@H](CN(C)C)C(C)(C)C,Aminocat,0
 2,O=C(N[C@H]1[C@H](N)CCCC1)C2=C(C3=CC=CC=C3)C=CC=C2C4=CC=CC=C4,Aminocat,0
 3,NC1(C(OCC)=O)CC2=C(C3=C(C=CC=C4)C4=CC(C5=CC(C(C)(C)C)=CC(C(C)(C)C)=C5)=C3C1)C6=CC=CC=C6C=C2C7=CC(C(C)(C)C)=CC(C(C)(C)C)=C7,Aminocat,0
